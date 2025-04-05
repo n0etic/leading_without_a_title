@@ -1,0 +1,27 @@
+{
+  "version": "3.98.34263.0",
+  "course_id": "6h11K6wLmnD",
+  "title": "Leading Without a Title",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5hMHibfj9HE",
+      "title": "SCENARIO STARTER",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
